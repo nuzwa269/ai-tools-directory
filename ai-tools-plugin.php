@@ -3,7 +3,7 @@
 Plugin Name: Professional AI Directory Pro
 Description: Complete AI Tools Directory with Search, Multi-Filters, Dot-Grid Background, and Submit Button.
 Version: 3.0
-Author: Your Name
+Author: Nuzhat
 */
 
 // 1. Post Type & Taxonomy Setup
@@ -115,12 +115,12 @@ function aitdir_pro_shortcode() {
 
     <div class="ait-pro-wrapper">
         <div class="ait-pro-header">
-            <a href="#" class="ait-pro-logo">TALOS.PRO</a>
-            <a href="/submit-tool" class="ait-pro-submit-btn">+ Submit Tool</a>
+            <a href="#" class="ait-pro-logo">COACHPROAI</a>
+            <a href="<?php echo home_url('/submit-a-tool/'); ?>" class="ait-pro-submit-btn">+ Submit Tool</a>
         </div>
 
         <div class="ait-pro-hero">
-            <h1>CURATED RESOURCES</h1>
+            <h1>CUSTOM GPTs</h1>
             <p>ایکسیس کریں بہترین ٹولز اور ریسورسز کو ایک ہی جگہ پر</p>
             <div class="ait-pro-search-container">
                 <input type="text" id="aitProSearch" class="ait-pro-search-input" placeholder="تلاش کریں...">
