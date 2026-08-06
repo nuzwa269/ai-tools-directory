@@ -121,7 +121,7 @@ function aitdir_pro_shortcode() {
 
         <div class="ait-pro-hero">
             <h1>CUSTOM GPTs</h1>
-            <p>ایکسیس کریں بہترین ٹولز اور ریسورسز کو ایک ہی جگہ پر</p>
+            <p> The Best Custom GPTs </p>
             <div class="ait-pro-search-container">
                 <input type="text" id="aitProSearch" class="ait-pro-search-input" placeholder="تلاش کریں...">
             </div>
